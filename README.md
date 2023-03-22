@@ -1,4 +1,4 @@
-# Amoled JetBrain Theme
+# Amoled Darcula Theme
 
 An Amoled Darcula theme for VsCode.
 
