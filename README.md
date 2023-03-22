@@ -6,6 +6,8 @@ An Amoled Darcula theme for VsCode.
 
 This is a theme for [VsCode](https://code.visualstudio.com/) based on the Darcula theme used in [JetBrains IDEs](https://www.jetbrains.com/).
 
+![Screenshot](https://raw.githubusercontent.com/CyrilLeblanc/vscode-amoled-darcula-theme/master/screenshot.png)
+
 ## Installation
 
 You can install this extension via the `.vsix` file :
