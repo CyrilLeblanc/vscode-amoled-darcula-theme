@@ -4,7 +4,7 @@ An Amoled Darcula theme for VsCode.
 
 ## What is this?
 
-This is a theme for [VsCode](https://code.visualstudio.com/) based on the [Darcula theme](https://github.com/bulenkov/Darcula/) used in [JetBrains IDEs](https://www.jetbrains.com/).
+This is a theme for [VsCode](https://code.visualstudio.com/) based on the Darcula theme used in [JetBrains IDEs](https://www.jetbrains.com/).
 
 ## Installation
 
