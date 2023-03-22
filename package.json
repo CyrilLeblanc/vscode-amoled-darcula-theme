@@ -1,0 +1,27 @@
+{
+  "name": "amoled-darcula",
+  "displayName": "Amoled Darcula Theme",
+  "description": "An Amoled Darcula theme for VsCode",
+  "version": "0.0.1",
+  "license": "GNU",
+  "author": "Cyril Leblanc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyrilLeblanc/vscode-amoled-darcula-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Amoled Darcula Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amoled-darcula-color-theme.json"
+      }
+    ]
+  }
+}
