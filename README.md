@@ -18,6 +18,14 @@ You can install this extension via the `.vsix` file :
 
 3. Select the `.vsix` file you downloaded
 
+## Compiling
+
+1. Clone this repository
+
+2. Compile the theme with `vsce package` (you need to have [vsce](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#vsce) installed)
+
+3. Install the extension with `code --install-extension <path to .vsix file>`
+
 ## Credits
 
 This theme is based on the [Darcula IntelliJ Theme](https://github.com/kevinvn1709/vscode-dracula-color-theme) and the builtin Dark+ V2 theme.
