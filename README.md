@@ -1,22 +1,32 @@
-# Amoled Darcula Theme
+# [Amoled Darcula Theme](https://marketplace.visualstudio.com/items?itemName=CyrilLeblanc.amoled-darcula)
 
-An Amoled Darcula theme for VsCode.
+An amoled Darcula theme for VsCode based on the Darcula theme used in JetBrains IDEs.
 
 ## What is this?
 
 This is a theme for [VsCode](https://code.visualstudio.com/) based on the Darcula theme used in [JetBrains IDEs](https://www.jetbrains.com/).
 
+## Screenshots
+
 ![Screenshot](https://raw.githubusercontent.com/CyrilLeblanc/vscode-amoled-darcula-theme/main/screenshot.png)
 
 ## Installation
 
-You can install this extension via the `.vsix` file :
+### From the marketplace
+
+1. Open the command palette (Ctrl+Shift+P)
+
+2. Type `ext install CyrilLeblanc.amoled-darcula`
+
+### From the releases
 
 1. Download the latest `.vsix` file from the [releases](https://github.com/CyrilLeblanc/vscode-amoled-darcula-theme/releases)
 
-2. Open the command palette (Ctrl+Shift+P) and type `Extensions: Install from VSIX...`
+2. Open the command palette (Ctrl+Shift+P)
 
-3. Select the `.vsix` file you downloaded
+3. Type `Extensions: Install from VSIX...`
+
+4. Select the `.vsix` file you downloaded
 
 ## Compiling
 
