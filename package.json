@@ -1,7 +1,7 @@
 {
   "name": "amoled-darcula",
   "displayName": "Amoled Darcula Theme",
-  "description": "An amoled Darcula theme for VsCode based on the Darcula theme used in JetBrains IDEs.",
+  "description": "An amoled Darcula theme for VsCode from Jetbrains IDEs",
   "version": "1.0.0",
   "license": "GNU",
   "author": "Cyril Leblanc",
@@ -20,9 +20,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Amoled Darcula Theme",
+        "label": "Darcula Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/amoled-darcula-color-theme.json"
+        "path": "./themes/darcula-dark-color-theme.json"
       }
     ]
   }
