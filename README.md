@@ -1,14 +1,16 @@
 # [Amoled Darcula Theme](https://marketplace.visualstudio.com/items?itemName=CyrilLeblanc.amoled-darcula)
 
-An amoled Darcula theme for VsCode based on the Darcula theme used in JetBrains IDEs.
+An amoled Darcula theme for VsCode from Jetbrains IDEs.
 
 ## What is this?
 
 This is a theme for [VsCode](https://code.visualstudio.com/) based on the Darcula theme used in [JetBrains IDEs](https://www.jetbrains.com/).
 
-## Screenshots
+# Themes
 
-![Screenshot](https://raw.githubusercontent.com/CyrilLeblanc/vscode-amoled-darcula-theme/main/screenshot.png)
+## Darcula Dark Theme
+
+![Screenshot](https://raw.githubusercontent.com/CyrilLeblanc/vscode-amoled-darcula-theme/main/media/dark.png)
 
 ## Installation
 
