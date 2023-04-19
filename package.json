@@ -20,6 +20,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Darcula Amoled Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula-amoled-color-theme.json"
+      },
+      {
         "label": "Darcula Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula-dark-color-theme.json"
