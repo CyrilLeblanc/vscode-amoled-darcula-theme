@@ -61,7 +61,7 @@
 		"editorSuggestWidget.selectedBackground": "#343434",
 		"editorWarning.border": "#343434",
 		"editorWarning.foreground": "#FF453A",
-		"editorWhitespace.foreground": "#242424",
+		"editorWhitespace.foreground": "#333333",
 		"editorWidget.background": "#0e0e0e",
 		"editorWidget.border": "#343434",
 		"extensionButton.prominentBackground": "#343434",
