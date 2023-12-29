@@ -20,7 +20,7 @@ This is a theme for [VsCode](https://code.visualstudio.com/) based on the Darcul
 
 ### From the marketplace
 
-1. Open the command palette (Ctrl+Shift+P)
+1. Open the command palette (<kbd>Ctrl<kbd/>+<kbd>Shift<kbd/>+<kbd>P<kbd/>)
 
 2. Type `ext install CyrilLeblanc.amoled-darcula`
 
